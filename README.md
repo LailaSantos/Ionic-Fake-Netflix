@@ -2,7 +2,8 @@
 
 Projeto para criar um fake NetFlix seguindo especificações de telas em Ionic, consumindo a API Tmdb Api de filmes e utilizar lazyload na criação do projeto.
 
-@Autores: 
+# Autores: 
+
 Karen Costa,
 Laís Souza,
 Laila Santos,
@@ -12,7 +13,7 @@ José Luis
 
 
 
-#Versões Utilizadas
+# Versões Utilizadas
 
 Ionic- 3.20.0
 
