@@ -13,5 +13,3 @@ Node 8.17.0
 Npm 6.13.4
 
 
-
-# Fã dessa galera <3
