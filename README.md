@@ -9,7 +9,7 @@ Laís Souza,
 Laila Santos,
 Larrisa Rodrigues,
 Laura Gilianne, 
-José Luis
+e José Luis
 
 
 
