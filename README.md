@@ -1,4 +1,4 @@
-# ionic-fake-netflix
+# Ionic Fake Netflix
 
 Projeto para criar um fake NetFlix seguindo especificações de telas em Ionic, consumindo a API <a href="https://developers.themoviedb.org/3">Tmdb Api<a/> de filmes e utilizar lazyload na criação do projeto.
 
